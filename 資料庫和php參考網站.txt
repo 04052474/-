@@ -1,0 +1,16 @@
+樹梅派資料庫，動態網頁，php設定參考網站
+
+https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md
+
+https://howtoraspberrypi.com/mariadb-raspbian-raspberry-pi/
+
+https://websiteforstudents.com/mariadb-installed-without-password-prompts-for-root-on-ubuntu-17-10-18-04-beta/
+
+https://www.digitalocean.com/community/tutorials/how-to-reset-your-mysql-or-mariadb-root-password
+
+https://www.stewright.me/2012/09/tutorial-install-phpmyadmin-on-your-raspberry-pi/
+
+(以下不確定是否正確，沒試過)
+
+http://mustgeorge.blogspot.com/2011/11/mysql-error-1045-28000-using-password.html
+
